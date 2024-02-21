@@ -1,0 +1,25 @@
+<script setup>
+import { ref } from 'vue';
+
+</script>
+
+<template>
+
+</template>
+
+<style lang="scss">
+
+</style>
+
+<script>
+    export default {
+        data() {
+            return {
+
+            }
+        },
+        methods: {
+
+        }
+    }
+</script>
